@@ -1,0 +1,52 @@
+state,Region,south,west,east
+Alabama,South,1,0,0
+Alaska,West,0,1,0
+Arizona,West,0,1,0
+Arkansas,South,1,0,0
+California,West,0,1,0
+Colorado,West,0,1,0
+Connecticut,Northeast,0,0,1
+Delaware,South,1,0,0
+District of Columbia,South,1,0,0
+Florida,South,1,0,0
+Georgia,South,1,0,0
+Hawaii,West,0,1,0
+Idaho,West,0,1,0
+Illinois,Midwest,0,0,0
+Indiana,Midwest,0,0,0
+Iowa,Midwest,0,0,0
+Kansas,Midwest,0,0,0
+Kentucky,South,1,0,0
+Louisiana,South,1,0,0
+Maine,Northeast,0,0,1
+Maryland,South,1,0,0
+Massachusetts,Northeast,0,0,1
+Michigan,Midwest,0,0,0
+Minnesota,Midwest,0,0,0
+Mississippi,South,1,0,0
+Missouri,Midwest,0,0,0
+Montana,West,0,1,0
+Nebraska,Midwest,0,0,0
+Nevada,West,0,1,0
+New Hampshire,Northeast,0,0,1
+New Jersey,Northeast,0,0,1
+New Mexico,West,0,1,0
+New York,Northeast,0,0,1
+North Carolina,South,1,0,0
+North Dakota,Midwest,0,0,0
+Ohio,Midwest,0,0,0
+Oklahoma,South,1,0,0
+Oregon,West,0,1,0
+Pennsylvania,Northeast,0,0,1
+Rhode Island,Northeast,0,0,1
+South Carolina,South,1,0,0
+South Dakota,Midwest,0,0,0
+Tennessee,South,1,0,0
+Texas,South,1,0,0
+Utah,West,0,1,0
+Vermont,Northeast,0,0,1
+Virginia,South,1,0,0
+Washington,West,0,1,0
+West Virginia,South,1,0,0
+Wisconsin,Midwest,0,0,0
+Wyoming,West,0,1,0
